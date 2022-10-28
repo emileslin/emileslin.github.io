@@ -28,7 +28,7 @@ twitter_username: emileslin
 github_username:  emileslin
 
 # Build settings
-theme: jekyll-theme-kagami
+#theme: jekyll-theme-kagami
 plugins:
   - jekyll-feed
 
