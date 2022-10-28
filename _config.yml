@@ -22,8 +22,8 @@ title: Emile S. Lin
 email: emileslin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Emile S. Lin | SFF Writer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://emileslin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: emileslin
 github_username:  emileslin
 
