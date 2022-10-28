@@ -2,17 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+navbar_title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Emile S. Lin is a speculative fiction writer from the Los Angeles area. She is a graduate of the Viable Paradise 2022 workshop and a member of Codex Writers.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Socials
+Dreamwidth: [emileslin](https://emileslin.dreamwidth.org/)<br>
+Twitter: [@emileslin](https://twitter.com/emileslin)<br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
