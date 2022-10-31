@@ -5,7 +5,7 @@ date:   2022-10-30 20:00:00 -0700
 categories: events
 ---
 
-![Martha's Vineyard](/assets/posts/vp2022_island.jpg)
+![Martha's Vineyard](/assets/posts/vp2022.jpg)
 
 I'm incredibly grateful to have attended Viable Paradise, a one week speculative fiction writing workshop on Martha's Vineyard that took place October 16-21, 2022. This is an attempt to summarize my experience, because I found reading others' thoughts to be interesting and helpful.
 
