@@ -10,5 +10,3 @@ Emile S. Lin is a speculative fiction writer from the Los Angeles area. She is a
 ### Socials
 Email: emileslin[at]gmail.com<br>
 Dreamwidth: [emileslin](https://emileslin.dreamwidth.org/)<br>
-Mastodon: [@emileslin@wandering.shop](https://wandering.shop/@emileslin)<br>
-Twitter: [@emileslin](https://twitter.com/emileslin)<br>
